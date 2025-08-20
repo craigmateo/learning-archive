@@ -9,6 +9,7 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
   - [Programming \& CS](#programming--cs)
       - [Guided Projects](#guided-projects)
   - [Mathematics](#mathematics)
+      - [](#)
   - [Physical Sciences \& Engineering](#physical-sciences--engineering)
   - [Social Sciences](#social-sciences)
   - [Humanities](#humanities)
@@ -32,6 +33,7 @@ Folder: `PROGRAMMING`
 | [How to Code: Simple Data](https://www.edx.org/course/how-to-code-simple-data) | `Algorithms` | :warning: |
 | [Programming Languages Part A](https://www.coursera.org/learn/programming-languages) | `SML`, `Functional Programming` | [certificate](https://coursera.org/share/2bd21c10f04b11b7b281e247532d947e) |
 | [Java Programming Software Engineering (Specialization)](https://www.coursera.org/specializations/java-programming) :star: | `Java`, `Algorithms` | [certificate](https://coursera.org/share/67a4748b70919a0cec42aeabfaa34fbd) |
+| [z/Architecture Assembler Language Part 1: The Basics](https://www.coursera.org/learn/zarchitecture-assembler-language-part-1-the-basics) | `System Programming`, `Computer Architecture` | [certificate](https://www.coursera.org/account/accomplishments/verify/P4X2AOB1BUEU) |
 |**AI & Data Science**  ||||
 | [Introduction to Applied Machine Learning](https://www.coursera.org/learn/machine-learning-applied) | `Machine Learning` | [certificate](https://coursera.org/share/a1047e69d7d1c1ee3f2c5d175ef0526e) |
 | [Oracle Database Foundations](https://www.coursera.org/learn/introduction-to-oracle-sql?) | `Database` `SQL` | [certificate](https://coursera.org/share/0c18b23d0a594f9a5acdd62a3b1b8225) |
