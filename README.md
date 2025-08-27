@@ -45,7 +45,7 @@ Folder: `PROGRAMMING`
 |**Security**  ||||
 | [Foundations of Cybersecurity](https://www.coursera.org/learn/foundations-of-cybersecurity) | `Security` | [certificate](https://coursera.org/share/90c6059b85789bfb446f2581d34110a1) |
 |**Tools**  ||||
-| [Version Control with Git](https://www.coursera.org/learn/version-control-with-git) | `Git` | - |
+| [Version Control with Git](https://www.coursera.org/learn/version-control-with-git) | `Git`, `Version Control` | [certificate](https://coursera.org/share/894425cbda15df57ce683b0e966e9233) |
 
 
 
