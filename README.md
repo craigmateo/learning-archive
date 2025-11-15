@@ -73,7 +73,8 @@ from formal university programs to professional upskilling, MOOCs, and hands-on 
 - Differential Equations I  
 - Applied Mathematical Modeling  
 - Probability I  
-- Statistics I  
+- Statistics I 
+- Abstract Mathematics 
 
 ### Philosophy
 - An Historical Introduction to Philosophy  
