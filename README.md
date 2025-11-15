@@ -12,7 +12,7 @@ and completed certifications where applicable.
   - [🧭 Table of Contents](#-table-of-contents)
   - [📘 Overview](#-overview)
 - [🎓 Academic Coursework](#-academic-coursework)
-  - [Undergraduate – Bachelor of Arts, Mathematics](#undergraduate--bachelor-of-arts-mathematics)
+  - [Undergraduate](#undergraduate)
     - [Mathematics \& Statistics](#mathematics--statistics)
     - [Philosophy](#philosophy)
     - [Economics \& Politics](#economics--politics)
@@ -64,8 +64,8 @@ The README remains readable and structured while containing the full details dir
 
 # 🎓 Academic Coursework
 
-## Undergraduate – Bachelor of Arts, Mathematics  
-*A consolidated list of completed undergraduate courses, including on-campus and transfer-credit coursework.*
+## Undergraduate
+*A consolidated list of completed undergraduate courses.*
 
 ### Mathematics & Statistics
 - Differential & Integral Calculus  
