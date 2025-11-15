@@ -330,9 +330,9 @@ Below is a consolidated master list of MOOCs, guided projects, and online profes
 
 | Course | Skills | Certificate |
 |--------|--------|-------------|
-| International Public Sector Accounting Standards (Cert IPSAS) | Accounting |
-| Ecology Conservation & Management Certification | Ecology |
-| Project Management Professional (PMP) | Project Management |
+| International Public Sector Accounting Standards (Cert IPSAS) | Accounting | Chartered Institute of Public Finance and Accountancy (CIPFA) |
+| Ecology Conservation & Management Certification | Ecology | Ducks Unlimited |
+| Project Management Professional (PMP) | Project Management | PMI |
 
 ---
 
