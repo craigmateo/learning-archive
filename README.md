@@ -48,6 +48,7 @@ and completed certifications where applicable.
     - [Philosophy](#philosophy-1)
     - [Languages \& Linguistics](#languages--linguistics-1)
   - [Arts \& Design](#arts--design)
+  - [Other Professional Certificates](#other-professional-certificates)
   - [Guided Projects](#guided-projects)
 - [💡 Why This Repository Exists](#-why-this-repository-exists)
 
@@ -322,6 +323,16 @@ Below is a consolidated master list of MOOCs, guided projects, and online profes
 |--------|--------|-------------|
 | Guitar for Beginners | Guitar | [certificate](https://coursera.org/share/c83198bd639bda37fa8962439056c959) |
 | Natural History Illustration 101 | Illustration | audit |
+
+---
+
+## Other Professional Certificates
+
+| Course | Skills | Certificate |
+|--------|--------|-------------|
+| International Public Sector Accounting Standards (Cert IPSAS) | Accounting |
+| Ecology Conservation & Management Certification | Ecology |
+| Project Management Professional (PMP) | Project Management |
 
 ---
 
