@@ -58,8 +58,6 @@ and completed certifications where applicable.
 This repository is a **curated record of what I’ve studied** —  
 from formal university programs to professional upskilling, MOOCs, and hands-on guided projects.
 
-The README remains readable and structured while containing the full details directly in this file.
-
 ---
 
 # 🎓 Academic Coursework
