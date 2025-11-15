@@ -109,11 +109,11 @@ from formal university programs to professional upskilling, MOOCs, and hands-on 
 - Old Norse II  
 
 ### Humanities & Classics
-- Greek Epic *(clarified from “CLST unspecified”)*  
+- Greek Epic
 
 ### Sciences
-- Intro to Astronomy *(clarified from “PHYS unspecified”)*  
-- Introductory Physics (O-level)
+- Intro to Astronomy
+- Introductory Physics
 
 ---
 
