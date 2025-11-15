@@ -1,202 +1,360 @@
-# Courses
+# 📚 Courses & Learning Archive
 
-Code and files from coursework, tutorials, and MOOCs.
+A structured archive of academic coursework, professional training, and self-directed study.  
+This repository serves as a long-term record of what I’ve learned, with links to code, notes,  
+and completed certifications where applicable.
 
-The purpose of this is to keep a record of topics I've covered, to review code/concepts, etc.
+---
 
-**Domains**:
-- [Courses](#courses)
-  - [Programming \& CS](#programming--cs)
-      - [Guided Projects](#guided-projects)
+## 🧭 Table of Contents
+
+- [📚 Courses \& Learning Archive](#-courses--learning-archive)
+  - [🧭 Table of Contents](#-table-of-contents)
+  - [📘 Overview](#-overview)
+- [🎓 Academic Coursework](#-academic-coursework)
+  - [Undergraduate – Bachelor of Arts, Mathematics](#undergraduate--bachelor-of-arts-mathematics)
+    - [Mathematics \& Statistics](#mathematics--statistics)
+    - [Philosophy](#philosophy)
+    - [Economics \& Politics](#economics--politics)
+    - [Languages \& Linguistics](#languages--linguistics)
+    - [Humanities \& Classics](#humanities--classics)
+    - [Sciences](#sciences)
+  - [Graduate – Environmental Engineering (M.Sc.)](#graduate--environmental-engineering-msc)
+    - [Core Coursework](#core-coursework)
+    - [Thesis](#thesis)
+  - [Graduate – Nanobiotechnology (Postgraduate Certificate)](#graduate--nanobiotechnology-postgraduate-certificate)
+    - [Core Coursework](#core-coursework-1)
+  - [Graduate – Geography (Non-Degree)](#graduate--geography-non-degree)
+    - [Core Coursework](#core-coursework-2)
+  - [Diploma – Computer Programming](#diploma--computer-programming)
+    - [Programming \& Software Development](#programming--software-development)
+    - [Data, Databases \& Analytics](#data-databases--analytics)
+    - [Systems \& Networks](#systems--networks)
+    - [Mathematics \& Technical Communication](#mathematics--technical-communication)
+- [🌐 MOOCs \& Professional Development](#-moocs--professional-development)
+  - [Programming \& Computer Science](#programming--computer-science)
+    - [Core Programming](#core-programming)
+    - [AI \& Data](#ai--data)
+    - [Web \& Networking](#web--networking)
+    - [Security](#security)
+    - [Tools](#tools)
   - [Mathematics](#mathematics)
-      - [](#)
   - [Physical Sciences \& Engineering](#physical-sciences--engineering)
+    - [Natural Sciences](#natural-sciences)
+    - [Engineering](#engineering)
+    - [Geography \& Geomatics](#geography--geomatics)
   - [Social Sciences](#social-sciences)
   - [Humanities](#humanities)
-  - [Arts and Design](#arts-and-design)
+    - [Philosophy](#philosophy-1)
+    - [Languages \& Linguistics](#languages--linguistics-1)
+  - [Arts \& Design](#arts--design)
+  - [Guided Projects](#guided-projects)
+- [💡 Why This Repository Exists](#-why-this-repository-exists)
 
-:star: = _specialization (multi course)_
-:warning: = _incomplete_
+---
 
-## Programming & CS
-Folder: `PROGRAMMING`
+## 📘 Overview
 
-:abacus: :computer:
+This repository is a **curated record of what I’ve studied** —  
+from formal university programs to professional upskilling, MOOCs, and hands-on guided projects.
 
-**Course** | **Skills / Tools** |**Certificate** |
-|---|---|---|
-| **Core Programming**  |||
-| [Python for Everybody](https://www.py4e.com/lessons) | `Python` | - |
-| [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/syllabus/) | `Python` | - |
-| [Introduction to Programming](https://www.coursera.org/learn/programming-introduction) | `C` | [certificate](https://www.coursera.org/account/accomplishments/verify/BFTNBAX4766Q) |
-| [C for Everyone: Programming Fundamentals](https://www.coursera.org/learn/c-for-everyone) | `C` | [certificate](https://coursera.org/share/992b153be3df3b02aee0eec32b97ff8d) |
-| [How to Code: Simple Data](https://www.edx.org/course/how-to-code-simple-data) | `Algorithms` | :warning: |
-| [Programming Languages Part A](https://www.coursera.org/learn/programming-languages) | `SML`, `Functional Programming` | [certificate](https://coursera.org/share/2bd21c10f04b11b7b281e247532d947e) |
-| [Java Programming Software Engineering (Specialization)](https://www.coursera.org/specializations/java-programming) :star: | `Java`, `Algorithms` | [certificate](https://coursera.org/share/67a4748b70919a0cec42aeabfaa34fbd) |
-| [z/Architecture Assembler Language Part 1: The Basics](https://www.coursera.org/learn/zarchitecture-assembler-language-part-1-the-basics) | `System Programming`, `Computer Architecture` | [certificate](https://www.coursera.org/account/accomplishments/verify/P4X2AOB1BUEU) |
-|**AI & Data Science**  ||||
-| [Introduction to Applied Machine Learning](https://www.coursera.org/learn/machine-learning-applied) | `Machine Learning` | [certificate](https://coursera.org/share/a1047e69d7d1c1ee3f2c5d175ef0526e) |
-| [Oracle Database Foundations](https://www.coursera.org/learn/introduction-to-oracle-sql?) | `Database` `SQL` | [certificate](https://coursera.org/share/0c18b23d0a594f9a5acdd62a3b1b8225) |
-| [AI Infrastructure and Operations Fundamentals](https://www.coursera.org/learn/introduction-to-oracle-sql?) | `AI` `GPU` | [certificate](https://coursera.org/share/2bfde9b3a30e1f9196baf540348a5f86) |
-|**Web**  ||||
-| [Networking](https://www.coursera.org/learn/computer-networking?specialization=google-it-support) | `Networking` | [certificate](https://coursera.org/share/d7254d1d1cfa15974ada0b7475662fb4) |
-| [Introduction to CSS3](https://www.coursera.org/learn/introcss) | `CSS`, `Web Design` | [certificate](https://coursera.org/share/d7254d1d1cfa15974ada0b7475662fb4) |
-| [Full Stack Development with React](https://www.coursera.org/specializations/full-stack-react) | `Bootstrap`, `Node.js`, `jQuery`, `SASS`, `Express.js` | :warning: |
-|**Security**  ||||
-| [Foundations of Cybersecurity](https://www.coursera.org/learn/foundations-of-cybersecurity) | `Security` | [certificate](https://coursera.org/share/90c6059b85789bfb446f2581d34110a1) |
-|**Tools**  ||||
-| [Version Control with Git](https://www.coursera.org/learn/version-control-with-git) | `Git`, `Version Control` | [certificate](https://coursera.org/share/894425cbda15df57ce683b0e966e9233) |
+The README remains readable and structured while containing the full details directly in this file.
 
+---
 
+# 🎓 Academic Coursework
 
-#### Guided Projects 
+## Undergraduate – Bachelor of Arts, Mathematics  
+*A consolidated list of completed undergraduate courses, including on-campus and transfer-credit coursework.*
 
-Folder: `GUIDED_PROJECTS`
+### Mathematics & Statistics
+- Differential & Integral Calculus  
+- Linear Algebra  
+- Introduction to Real Analysis  
+- Vector Calculus  
+- Differential Equations I  
+- Applied Mathematical Modeling  
+- Probability I  
+- Statistics I  
 
-:hammer: :gear:
+### Philosophy
+- An Historical Introduction to Philosophy  
+- Moral Philosophy  
+- Existentialism  
+- Symbolic Logic  
 
-| **Course** | **Skills / Tools** | **Certificate** |
-|---|---|---|
-| [Interactive Geospatial Visualization:Kepler GL & Jupyter Lab](https://www.coursera.org/projects/geospatial-keplergl-jupyter) | `KeplerGL`, `GIS` | [certificate](https://coursera.org/share/7dc60ed9659e9ac1572a88716d5c981b) |
-| [K-Means Clustering 101: World Happiness Report](https://www.coursera.org/projects/clustering-world-happiness-reports) | `Python`, `Machine Learning` | [certificate](https://coursera.org/share/2d9d6f4c5b46ce52a13203e9c0aaa25b) |
-| [Mycelium Growth with NetLogo Web](https://www.coursera.org/projects/mycelium) | `NetLogo`, `Simulation` | [certificate](https://coursera.org/share/47cbfd603bbfaf061e3a5c92a0a6f89f) |
-| [Climate Geospatial Analysis on Python with Xarray](https://www.coursera.org/projects/xarray) | `Python Xarray` | [certificate](https://coursera.org/share/0f623b6b0f20f1033ea1cbf78a92403c) |
-| [Write a University Index Web App with VueJS](https://www.coursera.org/projects/university-index-vuejs) | `vuejs` | [certificate](https://coursera.org/share/849b516f043ab06555dbada71ac03669) |
-| [Getting Started with Spatial Analysis in GeoDa](https://www.coursera.org/projects/getting-started-spatial-analysis-geoda) | `Spatial Analysis` `GeoDa` | [certificate](https://coursera.org/share/bc9a14401c707246da2018986dba45ba) |
-| [Analysing Covid-19 Geospatial data with Python](https://www.coursera.org/projects/geospatial-covid19-python) | `Geopandas` `Geospatial` | [certificate](https://coursera.org/share/73d5822930c2821c1ea0892b54bc3477) |
-| [Clustering Geolocation Data Intelligently in Python](https://www.coursera.org/projects/clustering-geolocation-data-intelligently-python) | `visualization` `Machine Learning` `clustering` `Data Analysis` `map building` | [certificate](https://coursera.org/share/034f0df2a9d5ac8e88a1c828d0a1b9ce) |
-| [Crime Zone Heatmaps with Python and Folium](https://www.coursera.org/projects/crime-zone-heatmaps-python-folium) | `Pandas` `Folium` | [certificate](https://coursera.org/share/e91e4a694f3cc2a8f7b4d21961ff6f6c) |
-| [Introduction to C++ Programming: Build a Calculator](https://www.coursera.org/projects/introduction-to-cpp-programming-build-a-calculator) | `C++ Basics` | [certificate](https://coursera.org/share/1def281df55bda6d73843dd760ca9533) |
-| [Build a film club web app on Google AppEngine](https://www.coursera.org/projects/introduction-to-cpp-programming-build-a-calculator) | `Google App Engine (GAE)` `Flask` | [certificate](https://coursera.org/share/7627dacacd7926b851fc273d4ae4393b) |
-| [Build a Full-Stack Server for API Requests - NodeJS and Pug](https://www.coursera.org/projects/basic-server-nodejs) | `NodeJS` `Pug` | [certificate](https://www.coursera.org/account/accomplishments/verify/N66Y3WR39KCY) |
-| [School Registry using Object Oriented Programming in Java](https://www.coursera.org/projects/school-registry-using-object-oriented-programming-in-java) | `Java` `Swing` | [certificate](https://coursera.org/share/523022137509350dab3d4ab524dee75a) |
-| [Beginners Overview of Swagger Editor](https://www.coursera.org/projects/beginners-overview-of-swagger-editor-oas) | `APIs` `Documentation` `Swagger` | [certificate](https://coursera.org/share/1ba4b247e3141048e6b542fe637aca72) |
-| [Generate API Documentation from Postman](https://www.coursera.org/projects/generate-api-documentation-postman) | `APIs` `Documentation` `Postman` | [certificate](https://coursera.org/share/28cbea0ecb4cec04b95ba7407ef0537a) |
-| [Postman - Intro to APIs](https://www.coursera.org/projects/laura-gemmell-intro-postman-apis) | `APIs` `Postman` | [certificate](https://coursera.org/share/0daa3a5b8995cdb33abe6ec4f06f88a8) |
-| [Build an Automobile Listing Website with PHP](https://www.coursera.org/projects/automobile-listing-php) | `PHP` | [certificate](https://coursera.org/share/9de594db45587826bd4d0e5e195d1958) |
-| [Learn Object-Oriented Programming with PHP](https://www.coursera.org/projects/oop-with-php) | `PHP`, `OOP` | [certificate](https://coursera.org/share/e8f3882800909b8068cbcd031f132044) |
+### Economics & Politics
+- Principles of Economics  
+- Introduction to Politics & Government  
 
-***
+### Languages & Linguistics
+
+**French**
+- French Language & Culture I  
+- Intensive French I  
+- Composition & Style (French)  
+- French Language (100-level)
+
+**German**
+- Beginner’s German I  
+- Beginner’s German II  
+- Reading German II  
+- Intermediate German I  
+- Intermediate German II  
+
+**Latin**
+- Intermediate Latin I  
+- Intermediate Latin II  
+
+**Old Norse**
+- Old Norse I  
+- Old Norse II  
+
+### Humanities & Classics
+- Greek Epic *(clarified from “CLST unspecified”)*  
+
+### Sciences
+- Intro to Astronomy *(clarified from “PHYS unspecified”)*  
+- Introductory Physics (O-level)
+
+---
+
+## Graduate – Environmental Engineering (M.Sc.)
+
+*A foundation in environmental systems, engineering methods, and sustainability.*
+
+### Core Coursework
+- Infrastructure Management  
+- Project Management  
+- Legal Framework (Environmental Law)  
+- Environmental Economics  
+- Urbanisation and Environment  
+- Environmental Informatics (GIS / ArcGIS)  
+- Transportation Planning  
+- Water Supply & Treatment  
+- Wastewater Treatment  
+- Renewable Energy (Solar, Wind, Energy Systems)  
+- Biological Waste Treatment Technologies  
+- Climate Change and Emissions  
+- Eco-Sanitation  
+- Industrial Waste Management  
+- Flood Water Protection  
+
+### Thesis
+- **Systems Analysis of Power and Water Cogeneration**  
+  *(Systems Engineering, Desalination, Cogeneration)*  
+
+---
+
+## Graduate – Nanobiotechnology (Postgraduate Certificate)
+
+*Interdisciplinary coursework at the interface of physics, biology, and materials science.*
+
+### Core Coursework
+- Fundamentals of Quantum Mechanics  
+- Applications of Nanotechnology  
+- Fundamentals of Molecular Biology & Genetics  
+- Analytical Techniques in Nanotechnology  
+- Processing Coatings and Their Applications  
+- Nanotechnologically Modified Biomaterials  
+- Nanomaterials I  
+- Interaction Between Biological and Non-biological Devices  
+
+---
+
+## Graduate – Geography (Non-Degree)
+
+*Courses focusing on spatial analysis, regional development, groundwater systems, and political ecology.*
+
+### Core Coursework
+- Groundwater Resource Management  
+- Seminar in Geography  
+- Seminar: Spatial Data Handling  
+- Regional Development: Principles & Practice  
+- Political Ecology
+
+---
+
+## Diploma – Computer Programming
+
+*A structured list of completed courses in computer science, software development, and applied technology.*
+
+### Programming & Software Development
+- Intro to Computer Programming  
+- Object-Oriented Programming (Java)  
+- Mobile Graphical Interface Programming  
+- Web Programming  
+- Computer Essentials  
+
+### Data, Databases & Analytics
+- Introduction to Databases  
+- Database Systems  
+- BI and Data Analytics  
+
+### Systems & Networks
+- Operating Systems Fundamentals (GNU/Linux)  
+- Network Programming  
+
+### Mathematics & Technical Communication
+- Technical Mathematics for Computer Science  
+- Communications I  
+- Technical Communication for Engineering Technology  
+
+---
+
+# 🌐 MOOCs & Professional Development
+
+Below is a consolidated master list of MOOCs, guided projects, and online professional courses.
+
+---
+
+## Programming & Computer Science
+
+### Core Programming
+| Course | Skills / Tools | Certificate |
+|-------|----------------|-------------|
+| Python for Everybody | Python | - |
+| Introduction to CS & Programming (MIT OCW) | Python | - |
+| Introduction to Programming | C | [certificate](https://www.coursera.org/account/accomplishments/verify/BFTNBAX4766Q) |
+| C for Everyone | C | [certificate](https://coursera.org/share/992b153be3df3b02aee0eec32b97ff8d) |
+| How to Code: Simple Data | Algorithms | *incomplete* |
+| Programming Languages Part A | SML, FP | [certificate](https://coursera.org/share/2bd21c10f04b11b7b281e247532d947e) |
+| Java Programming & Software Engineering *Specialization* | Java, Algorithms | [certificate](https://coursera.org/share/67a4748b70919a0cec42aeabfaa34fbd) |
+| z/Architecture Assembler Language Part 1 | System Programming | [certificate](https://www.coursera.org/account/accomplishments/verify/P4X2AOB1BUEU) |
+
+### AI & Data
+| Course | Skills | Certificate |
+|--------|--------|-------------|
+| Introduction to Applied Machine Learning | ML | [certificate](https://coursera.org/share/a1047e69d7d1c1ee3f2c5d175ef0526e) |
+| Oracle Database Foundations | SQL, DB | [certificate](https://coursera.org/share/0c18b23d0a594f9a5acdd62a3b1b8225) |
+| AI Infrastructure & Operations Fundamentals | AI, GPU | [certificate](https://coursera.org/share/2bfde9b3a30e1f9196baf540348a5f86) |
+
+### Web & Networking
+| Course | Skills | Certificate |
+|--------|--------|-------------|
+| Networking | Networking | [certificate](https://coursera.org/share/d7254d1d1cfa15974ada0b7475662fb4) |
+| Introduction to CSS3 | CSS | [certificate](https://coursera.org/share/d7254d1d1cfa15974ada0b7475662fb4) |
+| Full Stack Development with React | React, Node, SASS | *incomplete* |
+
+### Security
+| Course | Skills | Certificate |
+|--------|--------|-------------|
+| Foundations of Cybersecurity | Security | [certificate](https://coursera.org/share/90c6059b85789bfb446f2581d34110a1) |
+
+### Tools
+| Course | Skills | Certificate |
+|--------|--------|-------------|
+| Version Control with Git | Git | [certificate](https://coursera.org/share/894425cbda15df57ce683b0e966e9233) |
+
+---
 
 ## Mathematics
-Folder: `MATHEMATICS`
-####
-:triangular_ruler: :infinity:
 
-|  **Course** | **Skills / Tools** | **Certificate** |
-|---|---|---|
-| [Fibonacci Numbers and the Golden Ratio](https://www.coursera.org/learn/fibonacci) | `Mathematics`, `Proofs` | [certificate](https://coursera.org/share/a224649746a076d604afad9372acf9ab) |
-| [An Introduction to Mathematical Thinking ](https://www.coursera.org/learn/mathematical-thinking) | `Number Theory`, `Real Analysis`, `Logic` | [certificate](https://coursera.org/share/91de6b12f7baa17cca38684ea78778f3) |
+| Course | Skills | Certificate |
+|--------|--------|-------------|
+| Fibonacci Numbers & Golden Ratio | Math, Proofs | [certificate](https://coursera.org/share/a224649746a076d604afad9372acf9ab) |
+| Introduction to Mathematical Thinking | Logic, Number Theory | [certificate](https://coursera.org/share/91de6b12f7baa17cca38684ea78778f3) |
 
-***
+---
 
 ## Physical Sciences & Engineering
-Folder: `SCIENCE AND ENGINEERING`
 
-:dna: :test_tube:
+### Natural Sciences
+| Course | Skills | Certificate |
+|--------|--------|-------------|
+| Chemistry | Chemistry | audit |
+| Understanding Plants | Plant Biology | [certificate](https://coursera.org/share/8f3302eeae23105deee85570e78446a2) |
 
-| **Course** | **Skills / Tools** | **Certificate** |
-|---|---|---|
-|**Natural Sciences**|||
-| [Chemistry](https://www.coursera.org/learn/chemistry-1) | `Chemistry` | audit |
-|  [Understanding Plants - Part I: What a Plant Knows](https://www.coursera.org/learn/plantknows) | `Plant Biology` `Genetics` `Cell Biology` `Plant` | [certificate](https://coursera.org/share/8f3302eeae23105deee85570e78446a2) |
-|**Engineering & Applied Sciences**|||
-| [Mastering Statics](https://www.coursera.org/learn/mastering-statics) | `Statics` | [certificate](https://coursera.org/share/4e9357756519c284f6cbd87425510eac) |
-| [Introduction to Engineering Mechanics](https://www.coursera.org/learn/engineering-mechanics-statics) | `Statics`, `Mechanics` | [certificate](https://coursera.org/share/731ce9e0de6c74c725a3d096e805f76a) |
-| [Applications in Engineering Mechanics](https://www.coursera.org/learn/engineering-mechanics-statics-2) | `Statics`, `Mechanics` | [certificate](https://coursera.org/share/6bd11bb775d80e87a72a2c6e46503298) |
-| [Intro to Digital Manufacturing with Autodesk Fusion 360](https://www.coursera.org/learn/introduction-digital-manufacturing-fusion-360) | `Computer-Aided Design (CAD)` `Mechanical Design` |  [certificate](https://coursera.org/share/eb92d9fb9e7b38bc74af48867572f6a3) |
-| [Materials Science: 10 Things Every Engineer Should Know](https://www.coursera.org/learn/materials-science) | `Materials` | [certificate](https://coursera.org/share/3e05d55215befe4e0be5331f13b516a6) |
-| [Digital Manufacturing & Design Technology (Specialization)](https://www.coursera.org/specializations/digital-manufacturing-design-technology) :star: | `Digital Design` `Manufacturing` `Industry 4.0` | [certificate](https://coursera.org/share/b6cede525d5e8fa91c94c03235da722c) |
-|**Geography & Geomatics**|||
-| [Remote Sensing Image Acquisition, Analysis and Applications](https://www.coursera.org/learn/remote-sensing) | `Remote Sensing` `Image Analysis` | [certificate](https://coursera.org/share/b2187f78888f022907ed733743e9b4e0) |
-| [Planet Earth...and You](https://www.coursera.org/learn/planet-earth) | `Geology` | [certificate](https://coursera.org/share/e06ec097fd706a71c58793f01c679a33) |
+### Engineering
+| Course | Skills | Certificate |
+|--------|--------|-------------|
+| Mastering Statics | Statics | [certificate](https://coursera.org/share/4e9357756519c284f6cbd87425510eac) |
+| Intro to Engineering Mechanics | Mechanics | [certificate](https://coursera.org/share/731ce9e0de6c74c725a3d096e805f76a) |
+| Applications in Engineering Mechanics | Mechanics | [certificate](https://coursera.org/share/6bd11bb775d80e87a72a2c6e46503298) |
+| Intro to Digital Manufacturing (Fusion 360) | CAD | [certificate](https://coursera.org/share/eb92d9fb9e7b38bc74af48867572f6a3) |
+| Materials Science | Materials | [certificate](https://coursera.org/share/3e05d55215befe4e0be5331f13b516a6) |
+| Digital Manufacturing & Design *Specialization* | Industry 4.0 | [certificate](https://coursera.org/share/b6cede525d5e8fa91c94c03235da722c) |
 
-<!--
-### Environmental Engineering (M.Sc.)
-Bauhaus University Weimar
-https://www.uni-weimar.de/en/
+### Geography & Geomatics
+| Course | Skills | Certificate |
+|--------|--------|-------------|
+| Remote Sensing | RS, Imagery | [certificate](https://coursera.org/share/b2187f78888f022907ed733743e9b4e0) |
+| Planet Earth | Geology | [certificate](https://coursera.org/share/e06ec097fd706a71c58793f01c679a33) |
 
-[transcript](https://drive.google.com/file/d/12cQRlu4ipgNaq0L7Y4PM0zlOimWwMnQw/view?usp=sharing)
-
-| **Subfolder** | **Course** | **Source** | **Skills / Tools** | **Certificate** |
-|---|---|---|---|---|
-| - | Infrastructure Management  | - | `Infrastructure Management` `Infrastructure Finance` | - |
-| - | Project Management | - | `Project Management` | - |
-| - | Legal Framework | - | `Environmental Law` | - |
-| - | Environmental Economics | - | `Environmental Economics` | - |
-| - | Urbanisation and Environment | - | `Urban Planning` `Urbanisation` | - |
-| - | Environmental Informatics | - | `GIS` `ArcGIS` | - |
-| - | Transportation Planning | - | `Transportatation Modelling` | - |
-| - | Water Supply & Treatment | - | `Water Supply` | - |
-| - | Waste Water Treatment | - | `Waste Water` | - |
-| - | Renewable Energy | - | `Solar` `Wind` `Energy Systems`| - |
-| - | Biological Waste Treatment Technologies | - | `Biological Waste Treatment` | - |
-| - | Climate Change and Emissions | - | `Climate Change` `Emissions` | - |
-| - | Eco Sanitation | - | `Sanitation` `Biological Waste` | - |
-| - | Industrial Waste Management | - | `Waste Management` | - |
-| - | Flood Water Protection | - | `Flood Management` `Hydrology` | - |
-| - | *Thesis*: "Systems Analysis of Power and Water Cogeneration" | - | `Systems Engineering` `Desalination` `Cogeneration` | - |
--->
-
-<!--
-### Nanobiotechnology
-TU Kaiserslautern
-[transcript](https://drive.google.com/file/d/1YD-4ZtxJdBtJz7ayJUCkOx6errLOOgL5/view?usp=sharing)
-
-| **Subfolder** | **Course** | **Source** | **Skills / Tools** | **Certificate** |
-|---|---|---|---|---|
-| - | Fundamentals of Quantum Mechanics  | - | `Quantum Mechanics` | - |
-| - | Applications of Nanotechnology | - | `Nanotechnology` | - |
-| - | Fundamentals of Molecular Biology, Genetics | - | `Molecular Biology` `Genetics` | - |
-| - | Analytical Techniques in Nanotechnology | - | `Analytical Techniques` `Spectroscopy` | - |
-| - | Processing Coatings and Their Applications | - | `Processing Coatings` | - |
-| - | Nanotechnologically Modified Biomaterials | - | `Biomaterials` | - |
-| - | Nanomaterials 1 | - | `Nanomaterials` | - |
-| - | Interaction between Biological and Non-biological Devices | - | `Drug Delivery` `Medical Applications` | - |
--->
-
-***
+---
 
 ## Social Sciences
-Folder: `SOCIAL SCIENCES`
 
-| **Course** | **Skills / Tools** | **Certificate** |
-|---|---|---|
-|**Management**|||
-| [Agile Meets Design Thinking](https://www.coursera.org/learn/uva-darden-getting-started-agile) | `Agile Software Development`, `agile user stories`, `Product Management` | [certificate](https://coursera.org/share/fbbe23f3360b1c8278a21165a7dd73ef) |
-| [Continuous Delivery & DevOps](https://www.coursera.org/learn/introduction-digital-manufacturing-fusion-360) | `Devops`, `Continuous Delivery`  | [certificate](https://coursera.org/share/6d73c898a5089fc9751cf82e7c5442df) |
-| [Project Management Principles and Practices (Specialization)](https://www.coursera.org/specializations/project-management) :star: | `Project Management`, `Project Management`  | [certificate](https://coursera.org/share/22bc0b65574ed786d05b2051a4b070e9) |
-| [The Power of Team Culture](https://www.coursera.org/learn/team-culture) | `Organizational Culture`, `Leadership`  | [certificate](https://coursera.org/share/864ab36079cda1b2c00e3819f2d2b3d0) |
-| [Analysing Complexity](https://www.coursera.org/learn/analysing-complexity) | `Systems Thinking`, `Interdisciplinary`  | [certificate](https://coursera.org/share/c99bdaeb4cce61414fc2e69ac03ba747) |
-|**Other**|||
-| [Animal Behaviour and Welfare](https://www.coursera.org/learn/animal-welfare) | `Animal` `Animal Behavior` `Veterinary` `Dog` | [certificate](https://coursera.org/share/b149daffa6a1cef44649daebb2fa9d23) |
+| Course | Skills | Certificate |
+|--------|--------|-------------|
+| Agile Meets Design Thinking | Agile, Product | [certificate](https://coursera.org/share/fbbe23f3360b1c8278a21165a7dd73ef) |
+| Continuous Delivery & DevOps | DevOps | [certificate](https://coursera.org/share/6d73c898a5089fc9751cf82e7c5442df) |
+| Project Management *Specialization* | PM | [certificate](https://coursera.org/share/22bc0b65574ed786d05b2051a4b070e9) |
+| The Power of Team Culture | Leadership | [certificate](https://coursera.org/share/864ab36079cda1b2c00e3819f2d2b3d0) |
+| Analysing Complexity | Systems Thinking | [certificate](https://coursera.org/share/c99bdaeb4cce61414fc2e69ac03ba747) |
+| Animal Behaviour & Welfare | Behavior | [certificate](https://coursera.org/share/b149daffa6a1cef44649daebb2fa9d23) |
 
-***
+---
 
 ## Humanities
-Folder: `HUMANITIES`
 
-| **Course** | **Skills / Tools** | **Certificate** |
-|---|---|---|
-|**Philosophy**|||
-| [Introduction to the Philosophy of Cognitive Sciences](https://www.coursera.org/learn/philosophy-cognitive-sciences) | `Cognitive Sciences` | [certificate](https://coursera.org/share/9e8ce06e0d70ab9541fad5e45dbf434b) |
-| [Philosophy of Science](https://www.coursera.org/learn/philosophy-of-science) | `Critical Thinking` | [certificate](https://coursera.org/share/a51078a7c8138b0b72944ac9635ffc57) |
-| [Philosophy and the Sciences: Introduction to the Philosophy of Physical Sciences](https://www.coursera.org/learn/philosophy-physical-sciences) | `Critical Thinking` `Conceptual Thinking` | [certificate](https://coursera.org/share/3b1a1ef06c23755e584d1bc9c1bf66c7) |
-| [Thought Experiments](https://www.coursera.org/learn/thought-experiments) | `Critical Thinking`, `Argumentation` | [certificate](https://coursera.org/share/2e179fffa69eba0161767c9efa6dab02) |
-| [What is “the mind” and what is artificial intelligence?](https://www.coursera.org/learn/mind-machine-artificial-intelligence?) | `Philosophy of Mind` `AI`| [certificate](https://coursera.org/share/902196c572fbb3dddc612ffcf8ea034b) |
-|**Language & Linguistics**|||
-| [Chinese Characters for beginner 汉字](https://www.coursera.org/learn/hanzi) | `Mandarin` | [certificate](https://coursera.org/share/3d49d98278ab22884bb5910120272c76) |
-| [French Intermediate course B1-B2](https://www.coursera.org/learn/etudier-en-france) | `French` | [certificate](https://coursera.org/share/97af53fa70e933da8d7c83bc6529460d) |
-| [Introduction to Communication Science](https://www.coursera.org/learn/communication) | `Human Communication` | [certificate](https://coursera.org/share/9d3a96f127b025ccf516095adb437d87) |
-| [Corpus Linguistics: Method, Analysis, Interpretation](https://www.futurelearn.com/courses/corpus-linguistics) | `Corpus Linguistics` | audit |
-| [Miracles of Human Language: An Introduction to Linguistics](https://www.coursera.org/learn/human-language) | `Linguistics` | audit |
+### Philosophy
+| Course | Skills | Certificate |
+|--------|--------|-------------|
+| Intro to Philosophy of Cognitive Sciences | CogSci | [certificate](https://coursera.org/share/9e8ce06e0d70ab9541fad5e45dbf434b) |
+| Philosophy of Science | Critical Thinking | [certificate](https://coursera.org/share/a51078a7c8138b0b72944ac9635ffc57) |
+| Thought Experiments | Argumentation | [certificate](https://coursera.org/share/2e179fffa69eba0161767c9efa6dab02) |
+| What is the Mind? | Philosophy of Mind | [certificate](https://coursera.org/share/902196c572fbb3dddc612ffcf8ea034b) |
 
-***
+### Languages & Linguistics
+| Course | Skills | Certificate |
+|--------|--------|-------------|
+| Chinese Characters 汉字 | Mandarin | [certificate](https://coursera.org/share/3d49d98278ab22884bb5910120272c76) |
+| French Intermediate B1–B2 | French | [certificate](https://coursera.org/share/97af53fa70e933da8d7c83bc6529460d) |
+| Introduction to Communication Science | Communication | [certificate](https://coursera.org/share/9d3a96f127b025ccf516095adb437d87) |
+| Corpus Linguistics | Linguistics | audit |
+| Miracles of Human Language | Linguistics | audit |
 
-## Arts and Design
-Folder: `ART_DESIGN`
+---
 
-| **Course** | **Skills / Tools** | **Certificate** |
-|---|---|---|
-| [Guitar for Beginners](https://coursera.org/share/c83198bd639bda37fa8962439056c959) | `Tablature` `Music notation` `Guitar scales` `Guitar chords` `Guitar` | [certificate](https://coursera.org/share/c83198bd639bda37fa8962439056c959) |
-| [Drawing Nature, Science and Culture: Natural History Illustration 101](https://www.edx.org/course/drawing-nature-science-and-culture-natural-history) | `Drawing` `Illustration` | audit |
+## Arts & Design
+
+| Course | Skills | Certificate |
+|--------|--------|-------------|
+| Guitar for Beginners | Guitar | [certificate](https://coursera.org/share/c83198bd639bda37fa8962439056c959) |
+| Natural History Illustration 101 | Illustration | audit |
+
+---
+
+## Guided Projects
+
+| Course | Skills | Certificate |
+|--------|--------|-------------|
+| KeplerGL Geospatial Viz | KeplerGL, GIS | [certificate](https://coursera.org/share/7dc60ed9659e9ac1572a88716d5c981b) |
+| K-Means (Happiness Data) | ML | [certificate](https://coursera.org/share/2d9d6f4c5b46ce52a13203e9c0aaa25b) |
+| Mycelium Simulation (NetLogo) | Simulation | [certificate](https://coursera.org/share/47cbfd603bbfaf061e3a5c92a0a6f89f) |
+| Climate Data w/ Xarray | Xarray | [certificate](https://coursera.org/share/0f623b6b0f20f1033ea1cbf78a92403c) |
+| VueJS University Index | VueJS | [certificate](https://coursera.org/share/849b516f043ab06555dbada71ac03669) |
+| Spatial Analysis in GeoDa | Spatial Analysis | [certificate](https://coursera.org/share/bc9a14401c707246da2018986dba45ba) |
+| COVID-19 Geospatial (Python) | GeoPandas | [certificate](https://coursera.org/share/73d5822930c2821c1ea0892b54bc3477) |
+| Clustering Geolocation Data | ML | [certificate](https://coursera.org/share/034f0df2a9d5ac8e88a1c828d0a1b9ce) |
+| Crime Heatmaps (Folium) | Folium | [certificate](https://coursera.org/share/e91e4a694f3cc2a8f7b4d21961ff6f6c) |
+| C++ Calculator | C++ | [certificate](https://coursera.org/share/1def281df55bda6d73843dd760ca9533) |
+| Film Club App (GAE + Flask) | GAE, Flask | [certificate](https://coursera.org/share/7627dacacd7926b851fc273d4ae4393b) |
+| NodeJS API Server | NodeJS, Pug | [certificate](https://www.coursera.org/account/accomplishments/verify/N66Y3WR39KCY) |
+| Java School Registry | Java Swing | [certificate](https://coursera.org/share/523022137509350dab3d4ab524dee75a) |
+| Swagger Editor Intro | API Docs | [certificate](https://www.coursera.org/share/1ba4b247e3141048e6b542fe637aca72) |
+| API Docs from Postman | APIs | [certificate](https://www.coursera.org/projects/generate-api-documentation-postman) |
+| Postman Intro | APIs | [certificate](https://coursera.org/share/0daa3a5b8995cdb33abe6ec4f06f88a8) |
+| Automobile Listing Website (PHP) | PHP | [certificate](https://coursera.org/share/9de594db45587826bd4d0e5e195d1958) |
+| Object-Oriented PHP | PHP OOP | [certificate](https://coursera.org/share/e8f3882800909b8068cbcd031f132044) |
+
+---
+
+# 💡 Why This Repository Exists
+
+- To maintain a **long-term archive of learning**  
+- To keep academic coursework and certifications **transparent & verifiable**  
+- To consolidate **projects, code, and skills** in one place  
+- To support **continuous interdisciplinary learning**
+
