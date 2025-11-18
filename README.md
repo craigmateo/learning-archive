@@ -162,7 +162,7 @@ from formal university programs to professional upskilling, MOOCs, and applied g
 
 ## Other Professional Certifications
 
-| Course | Skills | Certificate |
+| Course | Skills | Body |
 |--------|--------|-------------|
 | International Public Sector Accounting Standards (Cert IPSAS) | Accounting | Chartered Institute of Public Finance and Accountancy (CIPFA) |
 | Ecology Conservation & Management Certification | Ecology | Ducks Unlimited |
