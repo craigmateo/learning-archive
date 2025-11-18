@@ -22,7 +22,7 @@ and completed certifications where applicable.
     - [Environmental Engineering (M.Sc.)](#environmental-engineering-msc)
     - [Geography (Non-Degree)](#geography-non-degree)
   - [Doctor of Philosophy (PhD)](#doctor-of-philosophy-phd)
-  - [Other Professional Certifications](#other-professional-certifications)
+- [Professional Certifications](#professional-certifications)
 - [🌐 MOOCs \& Professional Development](#-moocs--professional-development)
   - [Programming \& Computer Science](#programming--computer-science)
     - [Core Programming](#core-programming)
@@ -162,7 +162,7 @@ from formal university programs to professional upskilling, MOOCs, and applied g
 
 ---
 
-## Other Professional Certifications
+# Professional Certifications
 
 | Certification | Skills | Body |
 |--------|--------|-------------|
