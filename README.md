@@ -21,6 +21,7 @@ and completed certifications where applicable.
   - [Graduate – Environmental Engineering (M.Sc.)](#graduate--environmental-engineering-msc)
   - [Graduate Courses – Geography (Non-Degree)](#graduate-courses--geography-non-degree)
   - [Doctor of Philosophy (PhD)](#doctor-of-philosophy-phd)
+  - [Other Professional Certifications](#other-professional-certifications)
 - [🌐 MOOCs \& Professional Development](#-moocs--professional-development)
   - [Programming \& Computer Science](#programming--computer-science)
     - [Core Programming](#core-programming)
@@ -33,11 +34,10 @@ and completed certifications where applicable.
     - [Natural Sciences](#natural-sciences)
     - [Engineering](#engineering)
     - [Geography \& Geomatics](#geography--geomatics)
-  - [Social Sciences](#social-sciences)
+  - [Business / Social Sciences](#business--social-sciences)
   - [Humanities](#humanities)
     - [Philosophy](#philosophy)
     - [Languages \& Linguistics](#languages--linguistics)
-  - [Other Professional Certificates](#other-professional-certificates)
   - [Guided Projects](#guided-projects)
 - [💡 Why This Repository Exists](#-why-this-repository-exists)
 
@@ -160,6 +160,16 @@ from formal university programs to professional upskilling, MOOCs, and applied g
 
 ---
 
+## Other Professional Certifications
+
+| Course | Skills | Certificate |
+|--------|--------|-------------|
+| International Public Sector Accounting Standards (Cert IPSAS) | Accounting | Chartered Institute of Public Finance and Accountancy (CIPFA) |
+| Ecology Conservation & Management Certification | Ecology | Ducks Unlimited |
+| Project Management Professional (PMP) | Project Management | PMI |
+
+---
+
 # 🌐 MOOCs & Professional Development
 
 A consolidated record of online coursework and professional training.
@@ -240,7 +250,7 @@ A consolidated record of online coursework and professional training.
 
 ---
 
-## Social Sciences
+## Business / Social Sciences
 
 | Course | Skills | Certificate |
 |--------|--------|-------------|
@@ -271,18 +281,6 @@ A consolidated record of online coursework and professional training.
 | Introduction to Communication Science | Communication | [certificate](https://coursera.org/share/9d3a96f127b025ccf516095adb437d87) |
 | Corpus Linguistics | Linguistics | audit |
 | Miracles of Human Language | Linguistics | audit |
-
----
-
-## Other Professional Certificates
-
-| Course | Skills | Certificate |
-|--------|--------|-------------|
-| International Public Sector Accounting Standards (Cert IPSAS) | Accounting | Chartered Institute of Public Finance and Accountancy (CIPFA) |
-| Ecology Conservation & Management Certification | Ecology | Ducks Unlimited |
-| Project Management Professional (PMP) | Project Management | PMI |
-
----
 
 ## Guided Projects
 
