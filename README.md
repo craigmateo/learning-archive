@@ -17,9 +17,10 @@ and completed certifications where applicable.
     - [Applied Computer Science \& Programming](#applied-computer-science--programming)
     - [Sciences](#sciences)
     - [Humanities, Languages \& Social Sciences](#humanities-languages--social-sciences)
+  - [Nanobiotechnology (Certificate)](#nanobiotechnology-certificate)
   - [Graduate – Environmental Engineering (M.Sc.)](#graduate--environmental-engineering-msc)
-  - [Graduate – Nanobiotechnology (Certificate)](#graduate--nanobiotechnology-certificate)
-  - [Graduate – Geography (Non-Degree)](#graduate--geography-non-degree)
+  - [Graduate Courses – Geography (Non-Degree)](#graduate-courses--geography-non-degree)
+  - [Doctor of Philosophy (PhD)](#doctor-of-philosophy-phd)
 - [🌐 MOOCs \& Professional Development](#-moocs--professional-development)
   - [Programming \& Computer Science](#programming--computer-science)
     - [Core Programming](#core-programming)
@@ -82,7 +83,7 @@ from formal university programs to professional upskilling, MOOCs, and applied g
 
 ### Sciences
 - Intro to Astronomy  
-- Introductory Physics  
+- Introductory Physics 
 
 ### Humanities, Languages & Social Sciences
 - *Philosophy:* historical survey, moral philosophy, and formal logic  
@@ -91,6 +92,22 @@ from formal university programs to professional upskilling, MOOCs, and applied g
   - French and German language study from beginner to intermediate level (including composition and reading)  
   - Latin and Old Norse at intermediate level, with a focus on grammar and text interpretation  
 - *Classics & Literature:* work in classical texts and literary traditions, including Greek epic  
+
+---
+
+## Nanobiotechnology (Certificate)
+
+*Interdisciplinary coursework at the interface of physics, biology, and materials science.*
+
+**Core Coursework**
+- Fundamentals of Quantum Mechanics  
+- Applications of Nanotechnology  
+- Fundamentals of Molecular Biology & Genetics  
+- Analytical Techniques in Nanotechnology  
+- Processing Coatings and Their Applications  
+- Nanotechnologically Modified Biomaterials  
+- Nanomaterials I  
+- Interaction Between Biological and Non-biological Devices  
 
 ---
 
@@ -121,25 +138,9 @@ from formal university programs to professional upskilling, MOOCs, and applied g
 
 ---
 
-## Graduate – Nanobiotechnology (Certificate)
+## Graduate Courses – Geography (Non-Degree)
 
-*Interdisciplinary coursework at the interface of physics, biology, and materials science.*
-
-**Core Coursework**
-- Fundamentals of Quantum Mechanics  
-- Applications of Nanotechnology  
-- Fundamentals of Molecular Biology & Genetics  
-- Analytical Techniques in Nanotechnology  
-- Processing Coatings and Their Applications  
-- Nanotechnologically Modified Biomaterials  
-- Nanomaterials I  
-- Interaction Between Biological and Non-biological Devices  
-
----
-
-## Graduate – Geography (Non-Degree)
-
-*Courses focusing on spatial analysis, regional development, groundwater systems, and political ecology.*
+*Courses/seminars focusing on spatial analysis, regional development, groundwater systems, and political ecology.*
 
 **Core Coursework**
 - Groundwater Resource Management  
@@ -147,6 +148,14 @@ from formal university programs to professional upskilling, MOOCs, and applied g
 - Seminar: Spatial Data Handling  
 - Regional Development: Principles & Practice  
 - Political Ecology  
+
+---
+
+## Doctor of Philosophy (PhD)
+
+- Field: Applied linguistics, intercultural pragmatics
+- Methods: Corpus linguistics, discourse analysis, Python/NLP, mixed methods  
+- Outputs: Dissertation + Multiple peer-reviewed articles and conference papers  
 
 ---
 
