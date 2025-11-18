@@ -154,8 +154,9 @@ from formal university programs to professional upskilling, MOOCs, and applied g
 ## Doctor of Philosophy (PhD)
 
 - Field: Applied linguistics, intercultural pragmatics
-- Methods: Corpus linguistics, discourse analysis, Python/NLP, mixed methods  
-- Outputs: Dissertation + Multiple peer-reviewed articles and conference papers  
+- Methods: Corpus linguistics, discourse analysis, mixed methods  
+- Outputs: Dissertation + Multiple peer-reviewed articles and conference papers 
+- Tools: `Python`, `NLTK/spaCy`, `corpus analysis pipelines`, `data visualization` 
 
 ---
 
