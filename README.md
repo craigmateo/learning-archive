@@ -14,23 +14,12 @@ and completed certifications where applicable.
 - [🎓 Academic Coursework](#-academic-coursework)
   - [Undergraduate](#undergraduate)
     - [Mathematics \& Statistics](#mathematics--statistics)
-    - [Philosophy](#philosophy)
-    - [Economics \& Politics](#economics--politics)
-    - [Languages \& Linguistics](#languages--linguistics)
-    - [Humanities \& Classics](#humanities--classics)
+    - [Applied Computer Science \& Programming](#applied-computer-science--programming)
     - [Sciences](#sciences)
+    - [Humanities, Languages \& Social Sciences](#humanities-languages--social-sciences)
   - [Graduate – Environmental Engineering (M.Sc.)](#graduate--environmental-engineering-msc)
-    - [Core Coursework](#core-coursework)
-    - [Thesis](#thesis)
-  - [Graduate – Nanobiotechnology (Postgraduate Certificate)](#graduate--nanobiotechnology-postgraduate-certificate)
-    - [Core Coursework](#core-coursework-1)
+  - [Graduate – Nanobiotechnology (Certificate)](#graduate--nanobiotechnology-certificate)
   - [Graduate – Geography (Non-Degree)](#graduate--geography-non-degree)
-    - [Core Coursework](#core-coursework-2)
-  - [Diploma – Computer Programming](#diploma--computer-programming)
-    - [Programming \& Software Development](#programming--software-development)
-    - [Data, Databases \& Analytics](#data-databases--analytics)
-    - [Systems \& Networks](#systems--networks)
-    - [Mathematics \& Technical Communication](#mathematics--technical-communication)
 - [🌐 MOOCs \& Professional Development](#-moocs--professional-development)
   - [Programming \& Computer Science](#programming--computer-science)
     - [Core Programming](#core-programming)
@@ -45,9 +34,8 @@ and completed certifications where applicable.
     - [Geography \& Geomatics](#geography--geomatics)
   - [Social Sciences](#social-sciences)
   - [Humanities](#humanities)
-    - [Philosophy](#philosophy-1)
-    - [Languages \& Linguistics](#languages--linguistics-1)
-  - [Arts \& Design](#arts--design)
+    - [Philosophy](#philosophy)
+    - [Languages \& Linguistics](#languages--linguistics)
   - [Other Professional Certificates](#other-professional-certificates)
   - [Guided Projects](#guided-projects)
 - [💡 Why This Repository Exists](#-why-this-repository-exists)
@@ -57,14 +45,15 @@ and completed certifications where applicable.
 ## 📘 Overview
 
 This repository is a **curated record of what I’ve studied** —  
-from formal university programs to professional upskilling, MOOCs, and hands-on guided projects.
+from formal university programs to professional upskilling, MOOCs, and applied guided projects.
 
 ---
 
 # 🎓 Academic Coursework
 
 ## Undergraduate
-*A consolidated list of completed undergraduate courses.*
+
+*A consolidated list of completed undergraduate and applied coursework.*
 
 ### Mathematics & Statistics
 - Differential & Integral Calculus  
@@ -74,48 +63,34 @@ from formal university programs to professional upskilling, MOOCs, and hands-on 
 - Differential Equations I  
 - Applied Mathematical Modeling  
 - Probability I  
-- Statistics I 
-- Abstract Mathematics 
+- Statistics I  
+- Abstract Mathematics  
 
-### Philosophy
-- An Historical Introduction to Philosophy  
-- Moral Philosophy  
-- Existentialism  
-- Symbolic Logic  
-
-### Economics & Politics
-- Principles of Economics  
-- Introduction to Politics & Government  
-
-### Languages & Linguistics
-
-**French**
-- French Language & Culture I  
-- Intensive French I  
-- Composition & Style (French)  
-- French Language (100-level)
-
-**German**
-- Beginner’s German I  
-- Beginner’s German II  
-- Reading German II  
-- Intermediate German I  
-- Intermediate German II  
-
-**Latin**
-- Intermediate Latin I  
-- Intermediate Latin II  
-
-**Old Norse**
-- Old Norse I  
-- Old Norse II  
-
-### Humanities & Classics
-- Greek Epic
+### Applied Computer Science & Programming
+- Intro to Computer Programming  
+- Object-Oriented Programming (Java)  
+- Web Programming  
+- Mobile Graphical Interface Programming  
+- Database Systems  
+- BI and Data Analytics  
+- Operating Systems Fundamentals (GNU/Linux)  
+- Network Programming  
+- Technical Mathematics for Computer Science  
+- Communications I  
+- Technical Communication for Engineering Technology 
+- Programming Languages Research Project 
 
 ### Sciences
-- Intro to Astronomy
-- Introductory Physics
+- Intro to Astronomy  
+- Introductory Physics  
+
+### Humanities, Languages & Social Sciences
+- *Philosophy:* historical survey, moral philosophy, and formal logic  
+- *Economics & Politics:* foundational coursework in micro/macroeconomic principles and introductory political science  
+- *Languages & Philology:*  
+  - French and German language study from beginner to intermediate level (including composition and reading)  
+  - Latin and Old Norse at intermediate level, with a focus on grammar and text interpretation  
+- *Classics & Literature:* work in classical texts and literary traditions, including Greek epic  
 
 ---
 
@@ -123,7 +98,7 @@ from formal university programs to professional upskilling, MOOCs, and hands-on 
 
 *A foundation in environmental systems, engineering methods, and sustainability.*
 
-### Core Coursework
+**Core Coursework**
 - Infrastructure Management  
 - Project Management  
 - Legal Framework (Environmental Law)  
@@ -140,17 +115,17 @@ from formal university programs to professional upskilling, MOOCs, and hands-on 
 - Industrial Waste Management  
 - Flood Water Protection  
 
-### Thesis
-- **Systems Analysis of Power and Water Cogeneration**  
+**Thesis**
+- *Systems Analysis of Power and Water Cogeneration*  
   *(Systems Engineering, Desalination, Cogeneration)*  
 
 ---
 
-## Graduate – Nanobiotechnology (Postgraduate Certificate)
+## Graduate – Nanobiotechnology (Certificate)
 
 *Interdisciplinary coursework at the interface of physics, biology, and materials science.*
 
-### Core Coursework
+**Core Coursework**
 - Fundamentals of Quantum Mechanics  
 - Applications of Nanotechnology  
 - Fundamentals of Molecular Biology & Genetics  
@@ -166,45 +141,18 @@ from formal university programs to professional upskilling, MOOCs, and hands-on 
 
 *Courses focusing on spatial analysis, regional development, groundwater systems, and political ecology.*
 
-### Core Coursework
+**Core Coursework**
 - Groundwater Resource Management  
 - Seminar in Geography  
 - Seminar: Spatial Data Handling  
 - Regional Development: Principles & Practice  
-- Political Ecology
-
----
-
-## Diploma – Computer Programming
-
-*A structured list of completed courses in computer science, software development, and applied technology.*
-
-### Programming & Software Development
-- Intro to Computer Programming  
-- Object-Oriented Programming (Java)  
-- Mobile Graphical Interface Programming  
-- Web Programming  
-- Computer Essentials  
-
-### Data, Databases & Analytics
-- Introduction to Databases  
-- Database Systems  
-- BI and Data Analytics  
-
-### Systems & Networks
-- Operating Systems Fundamentals (GNU/Linux)  
-- Network Programming  
-
-### Mathematics & Technical Communication
-- Technical Mathematics for Computer Science  
-- Communications I  
-- Technical Communication for Engineering Technology  
+- Political Ecology  
 
 ---
 
 # 🌐 MOOCs & Professional Development
 
-Below is a consolidated master list of MOOCs, guided projects, and online professional courses.
+A consolidated record of online coursework and professional training.
 
 ---
 
@@ -217,7 +165,6 @@ Below is a consolidated master list of MOOCs, guided projects, and online profes
 | Introduction to CS & Programming (MIT OCW) | Python | - |
 | Introduction to Programming | C | [certificate](https://www.coursera.org/account/accomplishments/verify/BFTNBAX4766Q) |
 | C for Everyone | C | [certificate](https://coursera.org/share/992b153be3df3b02aee0eec32b97ff8d) |
-| How to Code: Simple Data | Algorithms | *incomplete* |
 | Programming Languages Part A | SML, FP | [certificate](https://coursera.org/share/2bd21c10f04b11b7b281e247532d947e) |
 | Java Programming & Software Engineering *Specialization* | Java, Algorithms | [certificate](https://coursera.org/share/67a4748b70919a0cec42aeabfaa34fbd) |
 | z/Architecture Assembler Language Part 1 | System Programming | [certificate](https://www.coursera.org/account/accomplishments/verify/P4X2AOB1BUEU) |
@@ -317,15 +264,6 @@ Below is a consolidated master list of MOOCs, guided projects, and online profes
 
 ---
 
-## Arts & Design
-
-| Course | Skills | Certificate |
-|--------|--------|-------------|
-| Guitar for Beginners | Guitar | [certificate](https://coursera.org/share/c83198bd639bda37fa8962439056c959) |
-| Natural History Illustration 101 | Illustration | audit |
-
----
-
 ## Other Professional Certificates
 
 | Course | Skills | Certificate |
@@ -367,4 +305,3 @@ Below is a consolidated master list of MOOCs, guided projects, and online profes
 - To keep academic coursework and certifications **transparent & verifiable**  
 - To consolidate **projects, code, and skills** in one place  
 - To support **continuous interdisciplinary learning**
-
