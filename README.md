@@ -203,7 +203,6 @@ A consolidated record of online coursework and professional training.
 |--------|--------|-------------|
 | Networking | Networking | [certificate](https://coursera.org/share/d7254d1d1cfa15974ada0b7475662fb4) |
 | Introduction to CSS3 | CSS | [certificate](https://coursera.org/share/d7254d1d1cfa15974ada0b7475662fb4) |
-| Full Stack Development with React | React, Node, SASS | *incomplete* |
 
 ### Security
 | Course | Skills | Certificate |
