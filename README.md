@@ -17,9 +17,10 @@ and completed certifications where applicable.
     - [Applied Computer Science \& Programming](#applied-computer-science--programming)
     - [Sciences](#sciences)
     - [Humanities, Languages \& Social Sciences](#humanities-languages--social-sciences)
-  - [Nanobiotechnology (Certificate)](#nanobiotechnology-certificate)
-  - [Graduate – Environmental Engineering (M.Sc.)](#graduate--environmental-engineering-msc)
-  - [Graduate Courses – Geography (Non-Degree)](#graduate-courses--geography-non-degree)
+  - [Graduate](#graduate)
+    - [Nanobiotechnology (Certificate)](#nanobiotechnology-certificate)
+    - [Environmental Engineering (M.Sc.)](#environmental-engineering-msc)
+    - [Geography (Non-Degree)](#geography-non-degree)
   - [Doctor of Philosophy (PhD)](#doctor-of-philosophy-phd)
   - [Other Professional Certifications](#other-professional-certifications)
 - [🌐 MOOCs \& Professional Development](#-moocs--professional-development)
@@ -94,8 +95,9 @@ from formal university programs to professional upskilling, MOOCs, and applied g
 - *Classics & Literature:* work in classical texts and literary traditions, including Greek epic  
 
 ---
+## Graduate 
 
-## Nanobiotechnology (Certificate)
+### Nanobiotechnology (Certificate)
 
 *Interdisciplinary coursework at the interface of physics, biology, and materials science.*
 
@@ -111,7 +113,7 @@ from formal university programs to professional upskilling, MOOCs, and applied g
 
 ---
 
-## Graduate – Environmental Engineering (M.Sc.)
+### Environmental Engineering (M.Sc.)
 
 *A foundation in environmental systems, engineering methods, and sustainability.*
 
@@ -138,7 +140,7 @@ from formal university programs to professional upskilling, MOOCs, and applied g
 
 ---
 
-## Graduate Courses – Geography (Non-Degree)
+### Geography (Non-Degree)
 
 *Courses/seminars focusing on spatial analysis, regional development, groundwater systems, and political ecology.*
 
