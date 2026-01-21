@@ -231,7 +231,7 @@ A consolidated record of online coursework and professional training.
 | Course | Skills | Certificate |
 |--------|--------|-------------|
 | Chemistry | Chemistry | audit |
-| Understanding Plants | Plant Biology | [certificate](https://coursera.org/share/8f3302eeae23105deee85570e78446a2) |
+| Plant Biology | Biology | [certificate](https://coursera.org/share/8f3302eeae23105deee85570e78446a2) |
 
 ### Engineering
 | Course | Skills | Certificate |
