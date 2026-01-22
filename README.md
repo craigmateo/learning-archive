@@ -70,17 +70,17 @@ from formal university programs to professional upskilling, MOOCs, and applied g
 
 ### Applied Computer Science & Programming
 - Intro to Computer Programming  
-- Object-Oriented Programming (Java)  
+- Object-Oriented Programming (Java)
+- Object-Oriented Programming (Design Patterns)    
 - Web Programming  
 - Mobile Graphical Interface Programming  
 - Database Systems  
 - BI and Data Analytics  
 - Operating Systems Fundamentals (GNU/Linux)  
 - Network Programming  
-- Technical Mathematics for Computer Science  
-- Communications I  
-- Technical Communication for Engineering Technology 
-- Programming Languages Research Project 
+- Technical Mathematics for Computer Science    
+- Technical Communication for Engineering 
+- Programming Languages Research Project
 
 ### Sciences
 - Intro to Astronomy  
@@ -314,3 +314,4 @@ A consolidated record of online coursework and professional training.
 - To keep academic coursework and certifications **transparent & verifiable**  
 - To consolidate **projects, code, and skills** in one place  
 - To support **continuous interdisciplinary learning**
+
